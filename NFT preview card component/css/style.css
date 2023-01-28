@@ -1,0 +1,125 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    box-sizing: border-box;
+
+}
+
+.container {
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 20px;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.main-img {
+    display: block;
+    position: relative;
+}
+
+.main-img img {
+    width: 300px;
+    border-radius: 25px;
+}
+
+.icon {
+    position: absolute;
+    background-color: hsl(178, 100%, 50%);;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    bottom: 0%;
+    top: 0;
+    opacity: 0;
+}
+
+
+.icon:hover {
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.svg {
+    position: absolute;
+    opacity: 1;
+    top: 125px;
+    left: 125px;
+}
+
+.heading {
+    color: hsl(0, 0%, 100%);
+    margin-bottom: 10px;
+}
+
+.heading:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+.text {
+    color: hsl(215, 51%, 70%);
+    margin-top: 5px;
+    line-height: 1.7;
+}
+
+.img-pic {
+    font-size: 18px;
+}
+
+.right {
+    float: right;
+}
+
+.left span {
+    color: hsl(178, 100%, 50%);
+    position: relative;
+    bottom: 2px;
+}
+
+.right span {
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    bottom: 2px;
+}
+
+.line {
+    width: 98%;
+    height: 3px;
+    margin: auto;
+    margin: 15px 0;
+    background-color: hsl(215, 32%, 27%);
+}
+
+.foot {
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.foot img {
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.text-foot {
+    font-size: 15px;
+
+    position: relative;
+    margin-left: 15px;
+    bottom: 15px;
+    color: hsl(215, 51%, 70%);
+}
+
+.text-foot span {
+    color: white;
+}
+
+.text-foot span:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
