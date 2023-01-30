@@ -1,4 +1,6 @@
 # Frontend Mentor Projects 
-<a href="https://ordercomponent-akumar23.netlify.app" target="_blank">Order summary component</a>
+[Order summary component](https://ordercomponent-akumar23.netlify.app/)
 
-<a href="https://nft-akumar23.netlify.app/" target="_blank">NFT preview card component</a>
+[NFT preview card component](https://nft-akumar23.netlify.app/)
+
+[QR code component](https://qrcode-akumar23.netlify.app/)
