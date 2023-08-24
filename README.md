@@ -1,9 +1,3 @@
 # Frontend Mentor Projects 
-[Order summary component](https://ordercomponent-akumar23.netlify.app/)
-
-[NFT preview card component](https://nft-akumar23.netlify.app/)
-
-[QR code component](https://qrcode-akumar23.netlify.app/)
-
-## Calculator Jquery | [Code](https://github.com/arunkanaujia23/Web_Projects/tree/Calculator_jQuery) | [Live](https://amazing-froyo-d9a7e7.netlify.app/)
-A Calculator app created using HTML, CSS, and Jquery
+## QR code component | [Code](https://github.com/arunkanaujia23/Frontend-Mentor/tree/QR_code) | [Live](https://sage-croquembouche-0344c7.netlify.app/)
+A web page is created using HTML and CSS. In which we are showcasing the QR card component
