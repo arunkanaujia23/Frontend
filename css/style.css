@@ -91,13 +91,14 @@ main {
     color: hsl(224, 23%, 55%);
 }
 
-.annual {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0 15px;
-    vertical-align: middle;
+.annual h4 {
+   font-size: 16px;
+   margin: 0;
 }
-
+.annual p {
+    font-size: 16px;
+    margin: 0;
+ }
 .payment {
     background-color: var(--Bright_blue);
     color: white;
