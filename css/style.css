@@ -28,9 +28,25 @@ body{
     background-color: var(--Eggshell);
 }
 .menu{
-    width: 80%;
+    width: 60%;
     background-color: var(--White);
     margin: 64px auto;
     border-radius: 32px;
     padding: 32px;
+}
+.menu-img-container img{
+    width: 100%;
+    border-radius: 16px;
+}
+.heading-text-container{
+    margin: 32px 0;
+}
+.heading-text-container h1{
+    font-family: "Young Serif", serif;
+    font-size: 2.8rem;
+    color: var(--Dark_Charcoal);
+}
+.heading-text-container p{
+    font-size: 1.2rem;
+    color: var(--Wenge_Brown);
 }
